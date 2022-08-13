@@ -13,7 +13,7 @@ if (isset($_SESSION['login']) && $_SESSION['login'] == true) {
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <title>Login Page</title>
+    <title>Login</title>
 
     <link href="admin/dist/css/adminlte.css" rel="stylesheet" />
     <script
